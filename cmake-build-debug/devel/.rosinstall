@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ncls/catkin_ws/src/cluster_gen/cmake-build-debug/devel/setup.sh

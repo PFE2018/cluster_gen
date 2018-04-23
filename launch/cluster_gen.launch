@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<launch>
+
+
+<node name="cluster_gen" pkg="cluster_gen" type="cluster_gen"  respawn="true" output="screen" />
+
+</launch>
